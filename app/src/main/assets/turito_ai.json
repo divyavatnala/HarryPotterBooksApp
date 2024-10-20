@@ -1,0 +1,700 @@
+{
+  "grades": [
+    {
+      "grade": "Grade 1",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "topics": [
+            "Counting and Number Recognition",
+            "Basic Addition and Subtraction",
+            "Shapes and Geometry",
+            "Patterns and Sorting",
+            "Introduction to Time",
+            "Simple Word Problems",
+            "Ordinal Numbers",
+            "Number Comparisons",
+            "Introduction to Money"
+          ]
+        },
+        {
+          "subject": "Science",
+          "topics": [
+            "Living and Non-Living Things",
+            "Parts of a Plant",
+            "Basic Needs of Plants and Animals",
+            "Seasons and Weather",
+            "Introduction to the Senses",
+            "Day and Night",
+            "Basic Health and Hygiene",
+            "Simple Forces (Push and Pull)"
+          ]
+        },
+        {
+          "subject": "English",
+          "topics": [
+            "Alphabet and Phonics",
+            "Basic Reading Comprehension",
+            "Simple Sentences",
+            "Rhyming Words",
+            "Common Nouns and Verbs",
+            "Picture Reading",
+            "Listening Skills",
+            "Introduction to Stories and Fables"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": "Grade 2",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "topics": [
+            "Advanced Addition and Subtraction",
+            "Introduction to Multiplication",
+            "Simple Division Concepts",
+            "Place Value Understanding",
+            "Time to the Nearest 5 Minutes",
+            "Measurement (Length, Weight, Volume)",
+            "Money (Counting and Making Change)",
+            "Introduction to Fractions",
+            "Geometry Basics (Shapes, Perimeter)"
+          ]
+        },
+        {
+          "subject": "Science",
+          "topics": [
+            "Life Cycles of Plants and Animals",
+            "Habitats and Ecosystems",
+            "States of Matter (Solid, Liquid, Gas)",
+            "Introduction to Simple Machines",
+            "Weather Patterns and Climate",
+            "Healthy Habits and Nutrition",
+            "Basic Anatomy (Parts of the Body)",
+            "Earth and Sky (Sun, Moon, Stars)"
+          ]
+        },
+        {
+          "subject": "English",
+          "topics": [
+            "Reading Comprehension",
+            "Basic Grammar (Nouns, Verbs, Adjectives)",
+            "Writing Simple Paragraphs",
+            "Expanded Vocabulary",
+            "Story Sequencing",
+            "Introduction to Poetry",
+            "Listening and Speaking Skills",
+            "Introduction to Punctuation"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": "Grade 3",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "topics": [
+            "Multiplication and Division Facts",
+            "Understanding Fractions",
+            "Introduction to Decimals",
+            "Measurement (Area, Perimeter)",
+            "Word Problems with Multiple Steps",
+            "Geometry (Lines, Angles, Shapes)",
+            "Introduction to Data and Graphs",
+            "Time (Elapsed Time Problems)",
+            "Money Calculations"
+          ]
+        },
+        {
+          "subject": "Science",
+          "topics": [
+            "Earth and Space (Planets, Solar System)",
+            "Human Body Systems (Digestive, Respiratory)",
+            "Forces and Motion (Gravity, Friction)",
+            "Plants (Photosynthesis, Growth)",
+            "Animal Classification",
+            "Water Cycle",
+            "Simple Electricity (Circuits, Conductors)",
+            "Weather and Climate"
+          ]
+        },
+        {
+          "subject": "English",
+          "topics": [
+            "Grammar and Sentence Structure",
+            "Reading Comprehension Strategies",
+            "Writing Short Stories",
+            "Parts of Speech (Nouns, Verbs, Adjectives, Adverbs)",
+            "Synonyms, Antonyms, and Homophones",
+            "Introduction to Non-Fiction Texts",
+            "Writing Friendly Letters",
+            "Poetry and Rhyming"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": "Grade 4",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "topics": [
+            "Fractions and Decimals (Addition, Subtraction)",
+            "Introduction to Factors and Multiples",
+            "Measurement (Volume, Mass, Time)",
+            "Geometry (Types of Angles, Symmetry)",
+            "Data Interpretation (Charts, Graphs)",
+            "Long Division",
+            "Multiplication of Larger Numbers",
+            "Perimeter and Area of Complex Shapes",
+            "Introduction to Probability"
+          ]
+        },
+        {
+          "subject": "Science",
+          "topics": [
+            "Electricity and Magnetism",
+            "Earth’s Processes (Volcanoes, Earthquakes)",
+            "Life Cycles of Animals and Plants",
+            "Human Digestive System",
+            "Sound and Light (Waves, Reflection, Refraction)",
+            "Simple Machines (Lever, Pulley, Inclined Plane)",
+            "Weathering and Erosion",
+            "Environmental Science (Conservation, Recycling)"
+          ]
+        },
+        {
+          "subject": "English",
+          "topics": [
+            "Advanced Grammar (Prepositions, Conjunctions)",
+            "Reading Comprehension of Longer Texts",
+            "Essay Writing (Introduction, Body, Conclusion)",
+            "Descriptive Writing",
+            "Introduction to Literature (Stories, Poems, Plays)",
+            "Public Speaking and Oral Presentations",
+            "Vocabulary Building (Prefixes, Suffixes)",
+            "Introduction to Figurative Language (Similes, Metaphors)"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": "Grade 5",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "topics": [
+            "Advanced Fractions (Multiplication, Division)",
+            "Decimals (Operations, Conversions with Fractions)",
+            "Introduction to Algebra (Simple Equations)",
+            "Geometry (Angles, Polygons, Circles)",
+            "Measurement (Area, Volume, Surface Area)",
+            "Graphing on Coordinate Planes",
+            "Introduction to Ratios and Proportions",
+            "Problem Solving with Multi-Step Word Problems",
+            "Probability and Statistics"
+          ]
+        },
+        {
+          "subject": "Science",
+          "topics": [
+            "Matter and Its Properties",
+            "Ecosystems and Food Chains",
+            "Earth’s Resources (Rocks, Minerals, Fossils)",
+            "Human Circulatory and Respiratory Systems",
+            "Introduction to Chemistry (Atoms, Molecules, Reactions)",
+            "Forces and Motion (Newton's Laws)",
+            "The Solar System (Planets, Moons, Stars)",
+            "Water Cycle and Weather Patterns"
+          ]
+        },
+        {
+          "subject": "English",
+          "topics": [
+            "Advanced Reading Comprehension (Themes, Main Ideas)",
+            "Creative Writing (Stories, Poetry)",
+            "Persuasive Writing and Arguments",
+            "Introduction to Plays and Dialogue Writing",
+            "Analyzing Literature (Characters, Plot, Setting)",
+            "Expanding Vocabulary (Idioms, Analogies)",
+            "Research Skills and Report Writing",
+            "Advanced Grammar and Syntax"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": "Grade 6",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "topics": [
+            "Ratios and Proportions",
+            "Decimals and Percents (Conversions, Applications)",
+            "Geometry (3D Shapes, Volume, Surface Area)",
+            "Algebraic Expressions and Equations",
+            "Integers and Their Operations",
+            "Data Analysis and Statistics",
+            "Graphing on Coordinate Planes",
+            "Introduction to Negative Numbers",
+            "Complex Word Problems and Critical Thinking"
+          ]
+        },
+        {
+          "subject": "Science",
+          "topics": [
+            "Cells and Microorganisms",
+            "Human Body Systems (Nervous, Endocrine)",
+            "Earth's Climate and Weather",
+            "Energy (Forms, Transformation, Conservation)",
+            "Introduction to Astronomy (Stars, Galaxies)",
+            "Basic Chemistry (Elements, Compounds, Mixtures)",
+            "Ecosystems and Biodiversity",
+            "Forces and Motion (Simple Machines, Gravity, Friction)"
+          ]
+        },
+        {
+          "subject": "English",
+          "topics": [
+            "Reading Literature (Fiction, Non-Fiction)",
+            "Essay Writing (Expository, Narrative, Descriptive)",
+            "Grammar and Syntax (Complex Sentences, Clauses)",
+            "Vocabulary Development (Context Clues, Word Origins)",
+            "Introduction to Research Skills (Note-Taking, Citations)",
+            "Writing for Different Purposes (Persuasive, Informative)",
+            "Analyzing Characters and Themes in Literature",
+            "Public Speaking and Debate Skills"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": "Grade 7",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "topics": [
+            "Expressions and Equations",
+            "Proportional Relationships and Percentages",
+            "Geometry (Angle Relationships, Triangles, Circles)",
+            "Introduction to Probability",
+            "Statistics (Mean, Median, Mode, Range)",
+            "Linear Relationships (Graphs, Slope, Intercepts)",
+            "Algebraic Problem Solving",
+            "Scale Drawings and Similarity",
+            "Complex Word Problems with Real-World Applications"
+          ]
+        },
+        {
+          "subject": "Science",
+          "topics": [
+            "Human Reproduction and Genetics",
+            "Weather Patterns and Climate Change",
+            "Chemical Reactions (Types, Rates, Energy Changes)",
+            "Ecology and Environmental Science",
+            "Forces and Motion (Newton’s Laws, Applications)",
+            "Introduction to Cells and Their Functions",
+            "Energy (Kinetic, Potential, Thermal, Electrical)",
+            "Introduction to Physics (Waves, Light, Sound)"
+          ]
+        },
+        {
+          "subject": "English",
+          "topics": [
+            "Analyzing Literature (Themes, Symbols, Motifs)",
+            "Writing Research Papers and Essays",
+            "Advanced Grammar (Sentence Structure, Punctuation)",
+            "Vocabulary Development (Greek and Latin Roots)",
+            "Public Speaking (Speech Writing and Presentation)",
+            "Comparative Literature (Themes Across Texts)",
+            "Persuasive Writing Techniques",
+            "Introduction to Drama and Playwriting"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": "Grade 8",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "topics": [
+            "Linear Equations and Inequalities",
+            "Functions and Graphs",
+            "Pythagorean Theorem and Its Applications",
+            "Volume and Surface Area of 3D Shapes",
+            "Advanced Probability and Statistics",
+            "Systems of Equations",
+            "Quadratic Equations (Introduction)",
+            "Geometric Transformations",
+            "Mathematical Modeling and Problem Solving"
+          ]
+        },
+        {
+          "subject": "Science",
+          "topics": [
+            "Evolution and Natural Selection",
+            "Forces and Motion (Detailed Study)",
+            "The Solar System and Beyond",
+            "Introduction to Chemistry (Periodic Table, Bonding)",
+            "Human Nervous and Endocrine Systems",
+            "Energy Transformation and Conservation",
+            "Introduction to Physics (Work, Power, Energy)",
+            "Environmental Science (Human Impact, Conservation)"
+          ]
+        },
+        {
+          "subject": "English",
+          "topics": [
+            "Literature Analysis (Plot, Character, Setting, Theme)",
+            "Persuasive Writing (Essays, Speeches, Letters)",
+            "Advanced Vocabulary (Literary Terms, Context Usage)",
+            "Writing Across Genres (Narrative, Expository, Argumentative)",
+            "Historical Context in Literature",
+            "Creative Non-Fiction Writing",
+            "Dramatic Literature (Analysis, Performance)",
+            "Critical Reading Strategies"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": "Grade 9",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "topics": [
+            "Quadratic Equations (Solving, Graphing)",
+            "Trigonometry (Functions, Ratios, Identities)",
+            "Statistics and Probability (Advanced Concepts)",
+            "Functions (Linear, Quadratic, Exponential)",
+            "Geometry (Proofs, Theorems, Constructions)",
+            "Complex Numbers (Operations, Applications)",
+            "Introduction to Sequences and Series",
+            "Problem Solving and Mathematical Reasoning",
+            "Algebraic Functions (Polynomials, Rational Functions)"
+          ]
+        },
+        {
+          "subject": "Science",
+          "topics": [
+            "Atomic Structure and Chemical Bonding",
+            "Introduction to Organic Chemistry",
+            "Ecology and Environmental Science",
+            "Energy and Its Forms (Thermal, Chemical, Nuclear)",
+            "Physics (Motion, Forces, Energy)",
+            "Introduction to Cell Biology and Genetics",
+            "Chemical Reactions (Balancing Equations, Reaction Types)",
+            "Human Anatomy and Physiology (Systems Overview)"
+          ]
+        },
+        {
+          "subject": "English",
+          "topics": [
+            "Classic Literature (Themes, Characterization, Analysis)",
+            "Advanced Analytical Writing (Essays, Reports)",
+            "Grammar and Syntax (Complex Structures, Style)",
+            "Rhetorical Devices and Persuasive Writing",
+            "Introduction to Literary Criticism (Different Schools of Thought)",
+            "World Literature (Comparative Analysis)",
+            "Creative Writing (Poetry, Prose, Drama)",
+            "Public Speaking and Debate (Techniques, Practice)"
+          ]
+        },
+        {
+          "subject": "Physics",
+          "topics": [
+            "Kinematics (Motion in One Dimension, Free Fall)",
+            "Newton's Laws of Motion",
+            "Work, Energy, and Power",
+            "Waves (Sound, Light, Electromagnetic Spectrum)",
+            "Heat and Thermodynamics (Laws, Applications)",
+            "Electricity and Magnetism (Circuits, Fields)",
+            "Introduction to Optics (Reflection, Refraction)",
+            "Physics in Everyday Life (Applications and Technology)"
+          ]
+        },
+        {
+          "subject": "Chemistry",
+          "topics": [
+            "Periodic Table (Trends, Properties)",
+            "Chemical Bonding (Ionic, Covalent, Metallic)",
+            "Stoichiometry (Mole Concept, Chemical Calculations)",
+            "Acids, Bases, and Salts (Properties, Reactions)",
+            "Gas Laws (Boyle's, Charles', Ideal Gas Law)",
+            "Chemical Reactions (Types, Equilibrium)",
+            "Introduction to Organic Chemistry (Hydrocarbons, Functional Groups)",
+            "Thermochemistry (Heat, Enthalpy, Calorimetry)"
+          ]
+        },
+        {
+          "subject": "Biology",
+          "topics": [
+            "Cell Biology (Structure, Function, Organelles)",
+            "Genetics (DNA, Inheritance, Mutations)",
+            "Human Anatomy (Systems, Functions, Health)",
+            "Evolution and Natural Selection",
+            "Photosynthesis and Cellular Respiration",
+            "Ecology (Ecosystems, Population Dynamics)",
+            "Microbiology (Bacteria, Viruses, Immunity)",
+            "Plant Biology (Structure, Reproduction, Growth)"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": "Grade 10",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "topics": [
+            "Polynomials and Factoring",
+            "Coordinate Geometry (Lines, Circles, Parabolas)",
+            "Introduction to Calculus (Limits, Derivatives)",
+            "Trigonometry (Identities, Graphs, Applications)",
+            "Probability and Statistics (Distributions, Hypothesis Testing)",
+            "Sequences and Series (Arithmetic, Geometric)",
+            "Matrices and Determinants",
+            "Complex Word Problems and Applications",
+            "Vectors (Introduction, Operations, Applications)"
+          ]
+        },
+        {
+          "subject": "Science",
+          "topics": [
+            "Genetics and Heredity (Mendelian, Molecular Genetics)",
+            "Physics of Motion (Newton's Laws, Projectile Motion)",
+            "Chemical Equilibrium (Le Chatelier’s Principle, Equilibrium Constant)",
+            "Thermodynamics (Laws, Heat Transfer, Entropy)",
+            "Wave-Particle Duality (Light, Electrons, Quantum Mechanics)",
+            "Ecology and Environmental Science (Ecosystems, Conservation)",
+            "Human Anatomy (In-Depth Study of Systems)",
+            "Introduction to Organic Chemistry (Reactions, Mechanisms)"
+          ]
+        },
+        {
+          "subject": "English",
+          "topics": [
+            "Shakespearean Literature (Plays, Sonnets, Analysis)",
+            "Argumentative Writing (Essays, Debates, Speeches)",
+            "Advanced Literary Analysis (Themes, Symbols, Motifs)",
+            "Poetry and Poetics (Forms, Techniques, Analysis)",
+            "Contemporary Literature (Themes, Cultural Context)",
+            "Advanced Research Writing (Thesis, Citations, Methodology)",
+            "Drama and Theatre Studies (Playwriting, Performance)",
+            "Critical Reading Strategies (Inferences, Analysis, Synthesis)"
+          ]
+        },
+        {
+          "subject": "Physics",
+          "topics": [
+            "Thermodynamics (Heat Transfer, Laws of Thermodynamics)",
+            "Electromagnetism (Magnetic Fields, Induction)",
+            "Optics (Lenses, Mirrors, Optical Instruments)",
+            "Nuclear Physics (Radioactivity, Fission, Fusion)",
+            "Quantum Mechanics (Fundamentals, Applications)",
+            "Relativity (Special, General Theory, Applications)",
+            "Waves and Oscillations (Frequency, Amplitude, Resonance)",
+            "Physics in Modern Technology (Lasers, Semiconductors, Superconductors)"
+          ]
+        },
+        {
+          "subject": "Chemistry",
+          "topics": [
+            "Molecular Structure (Lewis Structures, Molecular Geometry)",
+            "Stoichiometry (Advanced Chemical Calculations)",
+            "Thermochemistry (Enthalpy, Calorimetry, Hess's Law)",
+            "Kinetics and Catalysis (Reaction Rates, Activation Energy)",
+            "Electrochemistry (Redox Reactions, Electrolysis, Galvanic Cells)",
+            "Organic Chemistry (Hydrocarbons, Functional Groups, Reactions)",
+            "Analytical Chemistry (Titration, Spectroscopy, Chromatography)",
+            "Inorganic Chemistry (Transition Metals, Coordination Compounds)"
+          ]
+        },
+        {
+          "subject": "Biology",
+          "topics": [
+            "Evolution (Theories, Evidence, Speciation)",
+            "Ecology (Population Dynamics, Biodiversity, Conservation)",
+            "Human Physiology (Cardiovascular, Respiratory, Nervous Systems)",
+            "Biotechnology (DNA Technology, Cloning, GMOs)",
+            "Genetic Engineering (CRISPR, Gene Therapy, Ethical Issues)",
+            "Plant Physiology (Photosynthesis, Transpiration, Plant Hormones)",
+            "Molecular Biology (DNA Replication, Transcription, Translation)",
+            "Microbiology (Bacteria, Viruses, Immune System)"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": "Grade 11",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "topics": [
+            "Advanced Algebra (Functions, Graphs, Transformations)",
+            "Pre-Calculus (Trigonometric Functions, Polar Coordinates)",
+            "Differential Calculus (Derivatives, Applications)",
+            "Integral Calculus (Integration Techniques, Applications)",
+            "Probability and Statistics (Advanced Concepts, Distributions)",
+            "Analytic Geometry (Conics, Parametric Equations)",
+            "Vector Calculus (Vectors in 2D and 3D, Dot and Cross Product)",
+            "Matrices and Linear Algebra (Systems of Equations, Determinants)",
+            "Mathematical Modeling and Applications (Real-World Problems)"
+          ]
+        },
+        {
+          "subject": "Science",
+          "topics": [
+            "Organic Chemistry (Reactions, Mechanisms, Synthesis)",
+            "Physics of Waves and Light (Optics, Wave-Particle Duality)",
+            "Environmental Science (Ecosystems, Human Impact, Sustainability)",
+            "Quantum Physics (Fundamental Concepts, Applications)",
+            "Molecular Biology (DNA, RNA, Protein Synthesis, Gene Regulation)",
+            "Human Reproductive System (Anatomy, Physiology, Health)",
+            "Advanced Genetics (Mendelian, Non-Mendelian, Population Genetics)",
+            "Biochemistry (Enzymes, Metabolism, Molecular Structures)"
+          ]
+        },
+        {
+          "subject": "English",
+          "topics": [
+            "Modern American Literature (Themes, Context, Analysis)",
+            "Critical Writing (Essays, Reviews, Editorials)",
+            "Advanced Rhetoric (Argumentation, Persuasion, Style)",
+            "Philosophical Texts (Analysis, Critique, Interpretation)",
+            "World Literature (Comparative Studies, Cultural Contexts)",
+            "Creative Writing (Fiction, Poetry, Drama)",
+            "Literary Theory (Structuralism, Post-Structuralism, Marxism, Feminism)",
+            "Public Speaking (Speech Writing, Delivery, Persuasion)"
+          ]
+        },
+        {
+          "subject": "Physics",
+          "topics": [
+            "Modern Physics (Quantum Mechanics, Relativity)",
+            "Quantum Mechanics (Wave-Particle Duality, Schrödinger Equation)",
+            "Relativity (Special and General Theories, Applications)",
+            "Particle Physics (Standard Model, Quarks, Leptons)",
+            "Astrophysics (Stars, Galaxies, Cosmology)",
+            "Nuclear Physics (Nuclear Reactions, Radioactivity, Energy Production)",
+            "Electromagnetic Theory (Maxwell's Equations, Electromagnetic Waves)",
+            "Physics of Materials (Semiconductors, Superconductors, Nanomaterials)"
+          ]
+        },
+        {
+          "subject": "Chemistry",
+          "topics": [
+            "Advanced Organic Chemistry (Reactions, Mechanisms, Synthesis)",
+            "Biochemistry (Macromolecules, Enzymes, Metabolism)",
+            "Nuclear Chemistry (Radioactivity, Nuclear Reactions, Applications)",
+            "Analytical Chemistry (Spectroscopy, Chromatography, Mass Spectrometry)",
+            "Inorganic Chemistry (Coordination Compounds, Organometallics)",
+            "Polymer Chemistry (Synthesis, Properties, Applications)",
+            "Environmental Chemistry (Pollutants, Green Chemistry, Sustainability)",
+            "Physical Chemistry (Thermodynamics, Kinetics, Quantum Chemistry)"
+          ]
+        },
+        {
+          "subject": "Biology",
+          "topics": [
+            "Molecular Biology (DNA, RNA, Protein Synthesis, Gene Regulation)",
+            "Genetics (Mendelian, Non-Mendelian, Population Genetics)",
+            "Biotechnology (Genetic Engineering, CRISPR, Cloning)",
+            "Immunology (Immune System, Vaccines, Pathogens)",
+            "Neuroscience (Brain Structure, Function, Neurotransmission)",
+            "Developmental Biology (Embryology, Growth, Differentiation)",
+            "Evolutionary Biology (Speciation, Evolutionary Theories, Phylogenetics)",
+            "Ecology (Ecosystems, Biodiversity, Conservation Biology)"
+          ]
+        }
+      ]
+    },
+    {
+      "grade": "Grade 12",
+      "subjects": [
+        {
+          "subject": "Mathematics",
+          "topics": [
+            "Calculus (Limits, Derivatives, Integrals, Applications)",
+            "Advanced Calculus (Differential Equations, Multivariable Calculus)",
+            "Vectors and Matrices (Linear Algebra, Applications)",
+            "Probability and Statistics (Inference, Probability Distributions)",
+            "Advanced Algebra (Complex Numbers, Polynomials, Sequences)",
+            "Linear Algebra (Matrices, Vector Spaces, Eigenvalues)",
+            "Number Theory (Prime Numbers, Modular Arithmetic, Cryptography)",
+            "Mathematical Proofs (Induction, Contradiction, Direct Proofs)",
+            "Mathematical Modeling (Optimization, Real-World Applications)"
+          ]
+        },
+        {
+          "subject": "Science",
+          "topics": [
+            "Biochemistry (Metabolism, Enzymes, Molecular Genetics)",
+            "Quantum Physics (Advanced Concepts, Quantum Field Theory)",
+            "Astronomy (Stellar Evolution, Galaxies, Cosmology)",
+            "Environmental Science (Climate Change, Renewable Energy, Conservation)",
+            "Advanced Organic Chemistry (Reactions, Synthesis, Mechanisms)",
+            "Physics of Materials (Nanotechnology, Semiconductors, Superconductors)",
+            "Genomics and Bioinformatics (Genetic Sequencing, Data Analysis)",
+            "Advanced Molecular Biology (Gene Expression, Regulation, Genetic Engineering)"
+          ]
+        },
+        {
+          "subject": "English",
+          "topics": [
+            "World Literature (Global Perspectives, Cultural Contexts)",
+            "Advanced Research Writing (Thesis, Citations, Methodology)",
+            "Philosophical Texts (Existentialism, Ethics, Political Philosophy)",
+            "Literary Criticism (Various Schools of Thought, Application)",
+            "Drama and Theatre Studies (Historical Context, Performance, Analysis)",
+            "Creative Writing (Advanced Techniques, Genres, Publication)",
+            "Comparative Literature (Themes Across Cultures, Time Periods)",
+            "Public Speaking and Debate (Advanced Techniques, Rhetoric, Persuasion)"
+          ]
+        },
+        {
+          "subject": "Physics",
+          "topics": [
+            "Particle Physics (Quarks, Leptons, Bosons, Higgs Mechanism)",
+            "Astrophysics (Black Holes, Dark Matter, Dark Energy, Cosmology)",
+            "Quantum Mechanics (Advanced Concepts, Quantum Field Theory)",
+            "Relativity (General Theory, Gravitational Waves, Black Holes)",
+            "Nuclear Physics (Fusion, Fission, Radioactive Decay, Energy Production)",
+            "Electromagnetic Theory (Maxwell's Equations, Electromagnetic Waves)",
+            "Physics of Materials (Superconductors, Semiconductors, Nanomaterials)",
+            "Advanced Mechanics (Lagrangian, Hamiltonian Formulation, Chaos Theory)"
+          ]
+        },
+        {
+          "subject": "Chemistry",
+          "topics": [
+            "Advanced Organic Chemistry (Reactions, Mechanisms, Synthesis)",
+            "Inorganic Chemistry (Coordination Compounds, Organometallic Chemistry)",
+            "Physical Chemistry (Thermodynamics, Quantum Chemistry, Kinetics)",
+            "Analytical Chemistry (Spectroscopy, Chromatography, Mass Spectrometry)",
+            "Polymer Chemistry (Synthesis, Properties, Applications)",
+            "Environmental Chemistry (Green Chemistry, Pollution Control, Sustainability)",
+            "Biochemistry (Metabolism, Enzymes, Molecular Genetics)",
+            "Chemical Engineering (Process Design, Chemical Reactions, Materials Science)"
+          ]
+        },
+        {
+          "subject": "Biology",
+          "topics": [
+            "Advanced Genetics (Gene Expression, Regulation, Epigenetics)",
+            "Immunology (Immune Response, Vaccines, Pathogens)",
+            "Neuroscience (Brain Function, Neurotransmission, Cognitive Science)",
+            "Developmental Biology (Embryogenesis, Stem Cells, Differentiation)",
+            "Evolutionary Biology (Phylogenetics, Evolutionary Theories, Speciation)",
+            "Molecular Biology (DNA Replication, Transcription, Translation, Regulation)",
+            "Ecology and Environmental Biology (Ecosystems, Conservation, Climate Change)",
+            "Biotechnology (CRISPR, Genetic Engineering, Cloning, Ethical Issues)"
+          ]
+        }
+      ]
+    }
+  ]
+}
