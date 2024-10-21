@@ -19,7 +19,13 @@ class DatabaseRepository @Inject constructor(private val bookDao: BookDao) {
         bookDao.insertAllBooks(books)
     }
     suspend fun insertFavBookItem(item: FavBookItem){
-        bookDao.insertFavBookItem(item)
+        val existingBook = bookDao.getBookByTitle(item.book.title.toString())
+
+        if (existingBook == null) {
+            // If the book doesn't exist, insert it
+            bookDao.insertFavBookItem(item)
+        }
+
     }
     suspend fun getFavBooks(): Flow<List<FavBookItem>>{
     return bookDao.getFavBooks()

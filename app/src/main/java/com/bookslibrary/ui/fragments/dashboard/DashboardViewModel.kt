@@ -27,11 +27,6 @@ class DashboardViewModel @Inject constructor(private val repository: NetworkRepo
         MutableStateFlow<NetworkResult<List<BookItem>>>(NetworkResult.Loading())
     val dataState: StateFlow<NetworkResult<List<BookItem>>> = _dataState
 
-    fun insertItem(item: BookItem) {
-        viewModelScope.launch {
-            insertFavItem(item)
-        }
-    }
 
     fun insertFavItem(item: BookItem) {
         viewModelScope.launch {

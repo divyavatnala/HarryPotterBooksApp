@@ -19,7 +19,7 @@ interface BookDao {
     @Query("SELECT * FROM FavoriteBooks")
      fun getFavBooks(): Flow<List<FavBookItem>>
 
-    @Insert(onConflict = OnConflictStrategy.REPLACE)
+    @Insert(onConflict = OnConflictStrategy.IGNORE)
     suspend fun insertFavBookItem(data:FavBookItem)
 
     @Insert(onConflict = OnConflictStrategy.REPLACE)
@@ -30,4 +30,7 @@ interface BookDao {
 
     @Query("DELETE FROM Books")
     fun clearAllInsertedBooks()
+
+    @Query("SELECT * FROM FavoriteBooks WHERE title = :title LIMIT 1")
+    suspend fun getBookByTitle(title: String): FavBookItem?
 }
