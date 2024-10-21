@@ -9,13 +9,13 @@
 
     <fragment
         android:id="@+id/navigation_dashboard"
-        android:name="com.demosample.ui.fragments.dashboard.DashboardFragment"
+        android:name="com.bookslibrary.ui.fragments.dashboard.DashboardFragment"
         android:label="@string/title_books"
         tools:layout="@layout/fragment_dashboard" />
 
     <fragment
         android:id="@+id/navigation_notifications"
-        android:name="com.demosample.ui.fragments.favourites.FavouritesFragment"
+        android:name="com.bookslibrary.ui.fragments.favourites.FavouritesFragment"
         android:label="@string/title_favourites"
         tools:layout="@layout/fragment_favourites" />
 </navigation>

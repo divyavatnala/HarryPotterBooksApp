@@ -50,7 +50,7 @@
             android:layout_height="wrap_content"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
-
+                android:id="@+id/noContentTV"
             android:textStyle="normal"
             android:textSize="14sp"
             android:textColor="#1a1a1a"
